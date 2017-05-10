@@ -1,5 +1,5 @@
 #########################
-## Joe Plumitallo      ##
+## JPlumitallo      ##
 ## Matrix File i/o lab ##
 #########################
 
