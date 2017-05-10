@@ -1,5 +1,5 @@
 ################################
-## Joe Plumitallo             ##
+## J Plumitallo             ##
 ## Matrix Operations class    ##
 ################################
 
